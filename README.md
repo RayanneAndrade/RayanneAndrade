@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2>Muito prazer sou a Rayanne Andrade!</h2>
 
-<!--
-**RayanneAndrade/RayanneAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rayanne-andrade/)
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:rayanneandrade266@hotmail.com)
 
-Here are some ideas to get you started:
+Estou na area de tecnologia desde 2015, sempre estudando e tentando aumentar o meu conhecimento sobre tecnologia, sou apaixonada por tecnologia e adoro criar coisas novas para contribuir com o mundo!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 <b>Estudante de Sistemas de Informação na Universidade São Judas Tadeu</b>
+- 🚀 <b>Atualmente trabalhando com ERP-Protheus e tenho como hobby o desenvolvimento web</b>
+
+<hr>
+
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RayanneAndrade&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanneAndrade&show_icons=true&layout=compact" />
+</p>

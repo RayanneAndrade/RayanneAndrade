@@ -5,7 +5,7 @@
 
 Estou na area de tecnologia desde 2015, sempre estudando e tentando aumentar o meu conhecimento sobre tecnologia, sou apaixonada por tecnologia e adoro criar coisas novas para contribuir com o mundo!
 
-- 📚 <b>Estudante de Sistemas de Informação na Universidade São Judas Tadeu</b>
-- 🚀 <b>Atualmente trabalhando com ERP-Protheus e tenho como hobby o desenvolvimento web</b>
+- 📚 <b>Formada em Sistemas de Informação na Universidade São Judas Tadeu</b>
+- 🚀 <b>Atualmente trabalhando com Back-End Java e tenho como hobby o Desenvolvimento Web</b>
 
 <hr>

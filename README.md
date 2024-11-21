@@ -8,4 +8,15 @@ Estou na area de tecnologia desde 2015, sempre estudando e tentando aumentar o m
 - 📚 <b>Formada em Sistemas de Informação na Universidade São Judas Tadeu</b>
 - 🚀 <b>Atualmente trabalhando com Back-End Java e tenho como hobby o Desenvolvimento Web</b>
 
-<hr>
+<p align="center">
+   <img
+      align="center"
+      Height="160"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanneAndrade&layout=compact&theme=github_dark&langs_count=7&hide=HTML"
+    />
+  <img   
+      align="center"
+      height="160" 
+       src="https://github-readme-stats.vercel.app/api?username=RayanneAndrade&show_icons=true&theme=github_dark&count_private=true&show_icons=true&&include_all_commits=true&hide=issues"
+    />
+</p>
